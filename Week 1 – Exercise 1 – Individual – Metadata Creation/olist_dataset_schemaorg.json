@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Dataset",
+  "name": "Brazilian E-Commerce Public Dataset by Olist",
+  "description": "A Brazilian e-commerce public dataset of 100,000 orders made at Olist Store from 2016 to 2018 across multiple marketplaces in Brazil. It includes data on order status, price, payment, freight performance, customer location, product attributes, and customer reviews.",
+  "creator": {
+    "@type": "Organization",
+    "name": "Olist"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Kaggle"
+  },
+  "datePublished": "2018-08-01",
+  "keywords": [
+    "e-commerce",
+    "brazil",
+    "retail",
+    "tabular data",
+    "customer reviews"
+  ],
+  "distribution": {
+    "@type": "DataDownload",
+    "encodingFormat": "CSV",
+    "contentUrl": "https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce"
+  }
+}
